@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Asm3_SE182260_MovieApp",
+    "slug": "asm3-se182260-movieapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "asm3movieapp",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": false,
+      "reactCompiler": true
+    }
+  }
+}
